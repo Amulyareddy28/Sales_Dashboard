@@ -46,10 +46,26 @@ The dashboard helps users make data-driven business decisions through visual ins
 - Identified areas with lower profitability
 - Improved understanding of customer purchasing behavior
 
+## 📸 Dashboard Preview
+<img width="500" height="300" alt="sales_Dashboard" src="https://github.com/user-attachments/assets/7ce037df-fdd7-438c-b25f-e138ae95091b" />
+
+
+## 📁 Project Structure
+
+```text
+PowerBI-Project/
+│
+├── reports/
+│   └── sales.pbix
+│
+├── datasets/
+│   └── sales.csv
+│
+├── screenshots/
+│   └── sales_Dashboard.png
+│
+└── README.md
+```
+
 ## ✅ Conclusion
 This dashboard provides a clear and interactive view of sales data. It helps businesses monitor performance, identify trends, and make better strategic decisions using data visualization techniques.
-
-## 📸 Dashboard Preview
-<img width="500" height="300" alt="sales" src="https://github.com/user-attachments/assets/e57a44c1-cce1-4d27-9def-a8d1cd8f1c67" />
-
-
